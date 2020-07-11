@@ -1,4 +1,4 @@
-AutoML for Aviso
+AutoML 
 
 Features :
 1) Automatic Data Cleaning
